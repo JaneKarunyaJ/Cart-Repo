@@ -32,9 +32,3 @@ run this below command to run the app in production mode
 npm run prod
 ```
 
-
-
-[MIT](https://choosealicense.com/licenses/mit/)
-=======
-# e-commerce-website
->>>>>>> a6f9203b390820e8a240ab31e3375ace959f5b3e
